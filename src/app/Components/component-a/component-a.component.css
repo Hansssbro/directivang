@@ -1,0 +1,23 @@
+.tn{
+    text-align: center;
+    background-color: rgb(131, 106, 153);
+    font-style: italic;   
+}
+.form{
+    align-items: center;
+    align-tracks: center;
+    text-align: center;
+    align-content: center;
+    background-color: rgb(188, 141, 200);
+    border: .5px;
+    padding: .5px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 10px;
+    font-style: italic;
+}
+.botonenviar{
+    align-content: center;
+    border-radius: 10px;
+    font-style: italic;
+}
