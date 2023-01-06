@@ -1,0 +1,33 @@
+.h1{
+    align-items: center;
+    align-tracks: center;
+    text-align: center;
+    align-content: center;
+}
+.p{
+    align-items: center;
+    align-tracks: center;
+    text-align: center;
+    align-content: center;
+    size: 25px;
+}
+.td{
+    align-items: center;
+    align-tracks: center;
+    text-align: center;
+    align-content: center;
+}
+.qr{
+    align-items: center;
+    align-tracks: center;
+    text-align: center;
+    align-content: center;
+
+}
+.d{
+    align-items: center;
+    align-tracks: center;
+    text-align: center;
+    align-content: center;
+    color: rgb(28, 25, 31);  
+}
